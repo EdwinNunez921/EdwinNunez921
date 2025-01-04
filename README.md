@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/EdwinNunez921/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EdwinNunez921/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EdwinNunez921/configure-ad)
+  - [Installing Wireshark and capturing traffic](https://github.com/EdwinNunez921/Installing-and-Using-Wireshark/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EdwinNunez921/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
