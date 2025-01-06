@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/EdwinNunez921/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/EdwinNunez921/osTicket-Post-Instillation-Configuration-)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/EdwinNunez921/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/EdwinNunez921/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Installing Wireshark and capturing traffic](https://github.com/EdwinNunez921/Installing-and-Using-Wireshark/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EdwinNunez921/azure-network-protocols)
