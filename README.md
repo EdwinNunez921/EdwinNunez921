@@ -8,7 +8,11 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EdwinNunez921/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Installing Wireshark and capturing traffic](https://github.com/EdwinNunez921/Installing-and-Using-Wireshark/tree/main)
-
+- <b>Active Directory Deployment and Management in Azure: Infrastructure, Automation, and Group Policy</b>
+  - [Preparing Active Directory Infrastructure in Azure]()
+  - [Deploying Active Directory]()
+  - [Creating Users with Powershell]()
+  - [Group Policy and Management Accounts]()
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
