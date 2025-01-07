@@ -11,7 +11,7 @@
 - <b>Active Directory Deployment and Management in Azure: Infrastructure, Automation, and Group Policy</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/EdwinNunez921/Preparing-Active-Directory-Infrastructure-in-Azure)
   - [Deploying Active Directory](https://github.com/EdwinNunez921/Deploying-Active-Directory)
-  - [Creating Users with Powershell]()
+  - [Creating Users with Powershell](https://github.com/EdwinNunez921/Creating-Users-with-Powershell)
   - [Group Policy and Management Accounts]()
 <h2>🤳Connect with me:</h2>
 
