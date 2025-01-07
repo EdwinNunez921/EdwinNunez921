@@ -10,7 +10,7 @@
   - [Installing Wireshark and capturing traffic](https://github.com/EdwinNunez921/Installing-and-Using-Wireshark/tree/main)
 - <b>Active Directory Deployment and Management in Azure: Infrastructure, Automation, and Group Policy</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/EdwinNunez921/Preparing-Active-Directory-Infrastructure-in-Azure)
-  - [Deploying Active Directory]()
+  - [Deploying Active Directory](https://github.com/EdwinNunez921/Deploying-Active-Directory)
   - [Creating Users with Powershell]()
   - [Group Policy and Management Accounts]()
 <h2>🤳Connect with me:</h2>
