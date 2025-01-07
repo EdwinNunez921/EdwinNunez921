@@ -12,7 +12,7 @@
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/EdwinNunez921/Preparing-Active-Directory-Infrastructure-in-Azure)
   - [Deploying Active Directory](https://github.com/EdwinNunez921/Deploying-Active-Directory)
   - [Creating Users with Powershell](https://github.com/EdwinNunez921/Creating-Users-with-Powershell)
-  - [Group Policy and Management Accounts]()
+  - [Group Policy and Management Accounts](https://github.com/EdwinNunez921/Group-Policy-and-Managing-Accounts)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
