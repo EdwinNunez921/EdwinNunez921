@@ -17,7 +17,7 @@
   - [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/EdwinNunez921/Spiceworks-Knowledge-Base-Development-for-IT-Troubleshooting)
 - <b>Jira Service Management</b>
   - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/EdwinNunez921/Jira-Service-Management-Ticket-Lifecycle-and-Resolution)
-  - [Jira Service Management: Configuration, Workflows and Automation]()
+  - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/EdwinNunez921/Jira-Service-Management-Configuration-Workflows-and-Automation)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
