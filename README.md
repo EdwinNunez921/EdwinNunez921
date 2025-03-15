@@ -14,7 +14,7 @@
   - [Creating Users with Powershell](https://github.com/EdwinNunez921/Creating-Users-with-Powershell)
   - [Group Policy and Management Accounts](https://github.com/EdwinNunez921/Group-Policy-and-Managing-Accounts)
 - <b>Spiceworks: Knowledge Base Development for IT Troubleshooting</b>
-  - [Spiceworks: Knowledge Base Development for IT Troubleshooting]()
+  - [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/EdwinNunez921/Spiceworks-Knowledge-Base-Development-for-IT-Troubleshooting)
 - <b>Jira Service Management</b>
   - [Jira Service Management: Ticket Lifecycle and Resolution]()
   - [Jira Service Management: Configuration, Workflows and Automation]()
